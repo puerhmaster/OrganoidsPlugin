@@ -1,0 +1,12 @@
+# Java
+*.class
+/target/
+/out/
+*.jar
+
+# IDEs
+.idea/
+*.iml
+.classpath
+.project
+.settings/
